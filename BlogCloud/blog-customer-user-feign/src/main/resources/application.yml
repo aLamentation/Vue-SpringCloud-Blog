@@ -34,7 +34,7 @@ mybatis:
   type-aliases-package: com.Entity
   configuration:
     map-underscore-to-camel-case: true
-
+#测试一下
 
 logging:
   level:
